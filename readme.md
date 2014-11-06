@@ -8,6 +8,7 @@
 * What is a web server really?
 * "Database backed web application"
 * Model/View/Controller
+* [Cosi 166b last year's site](http://cosi236b.courses.salas.com.s3-website-us-west-2.amazonaws.com)
 
 #### Design of our Blogging server
 
